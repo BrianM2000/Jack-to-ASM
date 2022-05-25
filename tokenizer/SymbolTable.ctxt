@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SymbolTable
+comment1.params=
+comment1.target=SymbolTable()
+comment2.params=v\ type\ kind
+comment2.target=void\ add(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=name
+comment3.target=java.lang.String\ typeOf(java.lang.String)
+comment4.params=name
+comment4.target=java.lang.String\ kindOf(java.lang.String)
+comment5.params=name
+comment5.target=int\ indexOf(java.lang.String)
+comment6.params=kind
+comment6.target=int\ varCount(java.lang.String)
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Symbol
+comment1.params=type\ kind\ index
+comment1.target=Symbol(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ kindOf()
+comment3.params=
+comment3.target=java.lang.String\ typeOf()
+comment4.params=
+comment4.target=int\ indexOf()
+numComments=5
